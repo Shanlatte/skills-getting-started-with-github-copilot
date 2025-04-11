@@ -197,6 +197,17 @@ button#dark-mode-toggle:hover {
   display: none;
 }
 
+a.email-link {
+  color: #0066cc;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+a.email-link:hover {
+  color: #004999;
+  text-decoration: none;
+}
+
 footer {
   text-align: center;
   margin-top: 30px;
